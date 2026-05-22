@@ -39,7 +39,7 @@
     "@babel/plugin-syntax-dynamic-import": "^7.8.3",
     "@babel/preset-env": "^7.22.20",
     "@babel/register": "^7.22.15",
-    "@ericblade/quagga2": "^1.7.4",
+    "@ericblade/quagga2": "^1.12.1",
     "@storybook/addon-essentials": "^7.0.0",
     "@storybook/cli": "^7.0.0",
     "@storybook/html-webpack5": "^7.0.0",
